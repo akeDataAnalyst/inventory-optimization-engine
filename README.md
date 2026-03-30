@@ -1,6 +1,7 @@
 # **Inventory Intelligence**
 ## **Strategic Procurement Optimization for Engineering Equipment**
 
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)]()
 
 ## Project Overview
 This project is an end-to-end data solution designed to modernize the Supply and Logistics operations at an engineering firm. 
