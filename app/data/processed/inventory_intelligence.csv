@@ -1,0 +1,26 @@
+SKU,Product_name,Category,Source,Unit_Cost_USD,Avg_Daily_Demand,Lead_Time_Days,Initial_Stock,Reorder_Point,Stock_Status,Annual_Consumption_USD
+GEN-714,Generators Model X0,Generators,Local,4763.43,2.33,7,25,20.0,HEALTHY,4051031.58
+SOL-761,Solar Model X1,Solar,Australia,679.88,1.65,68,7,134.0,REORDER NOW,408991.51
+PUM-376,Pumps Model X2,Pumps,Japan,3665.59,2.85,46,68,157.0,REORDER NOW,3808293.29
+PUM-574,Pumps Model X3,Pumps,Local,3135.94,0.52,3,53,2.0,HEALTHY,592528.69
+GEN-786,Generators Model X4,Generators,Australia,869.57,1.23,59,66,87.0,REORDER NOW,390508.47
+SOL-746,Solar Model X5,Solar,Australia,2035.82,2.96,47,55,167.0,REORDER NOW,2198068.52
+PUM-341,Pumps Model X6,Pumps,Europe,512.25,2.87,104,18,358.0,REORDER NOW,537018.95
+SOL-527,Solar Model X7,Solar,Europe,276.64,1.08,104,75,134.0,REORDER NOW,108771.47
+PUM-971,Pumps Model X8,Pumps,Local,365.06,2.77,6,54,20.0,HEALTHY,369538.72
+WAT-576,Water Treatment Model X9,Water Treatment,Japan,2240.75,1.02,48,58,59.0,REORDER NOW,834111.27
+GEN-962,Generators Model X10,Generators,Japan,3920.64,2.85,106,18,362.0,REORDER NOW,4076650.64
+WAT-824,Water Treatment Model X11,Water Treatment,Australia,624.76,0.99,106,44,126.0,REORDER NOW,225748.7
+WAT-863,Water Treatment Model X12,Water Treatment,Europe,1502.48,2.57,70,93,216.0,REORDER NOW,1410408.14
+WAT-956,Water Treatment Model X13,Water Treatment,Local,1524.8,1.24,7,69,10.0,HEALTHY,690503.25
+GEN-598,Generators Model X14,Generators,Europe,3906.77,1.0,107,15,128.0,REORDER NOW,1421394.33
+PUM-127,Pumps Model X15,Pumps,Local,3699.23,2.43,7,45,20.0,HEALTHY,3278572.97
+GEN-673,Generators Model X16,Generators,Europe,3191.83,1.33,92,27,147.0,REORDER NOW,1546264.81
+WAT-838,Water Treatment Model X17,Water Treatment,Europe,3702.11,2.09,79,69,199.0,REORDER NOW,2829415.76
+PUM-492,Pumps Model X18,Pumps,Australia,3623.57,2.4,58,31,167.0,REORDER NOW,3176847.45
+GEN-963,Generators Model X19,Generators,Australia,732.28,1.6,95,67,182.0,REORDER NOW,427205.8
+GEN-270,Generators Model X20,Generators,Europe,1708.91,1.77,67,19,142.0,REORDER NOW,1104930.4
+PUM-895,Pumps Model X21,Pumps,Local,4725.7,2.0,5,90,12.0,HEALTHY,3444866.58
+SOL-127,Solar Model X22,Solar,Japan,4078.98,2.08,50,32,125.0,REORDER NOW,3101984.84
+WAT-572,Water Treatment Model X23,Water Treatment,Local,2199.25,2.71,4,96,13.0,HEALTHY,2173941.53
+GEN-844,Generators Model X24,Generators,Japan,728.25,1.07,106,81,136.0,REORDER NOW,284374.65
