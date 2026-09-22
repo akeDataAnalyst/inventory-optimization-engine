@@ -92,7 +92,7 @@ if df is not None:
 
     # FOOTER
     st.divider()
-    st.caption("**Developed by Aklilu Abera** | **Data Analyst & Supply Chain Intelligence**")
+    st.caption("**Developed by Aklilu Abera** | **Data Analyst**")
 
 else:
     st.error("Data file not found. Ensure 'inventory_intelligence.csv' saved in /data/processed/")
