@@ -1,5 +1,7 @@
 # **Inventory Intelligence**
 
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://inventory-optimization-engine-njjdpzusjvocbfuolhezr3.streamlit.app/)
+
 ## **Strategic Procurement Optimization for Engineering Equipment**
 
 ## Project Overview
