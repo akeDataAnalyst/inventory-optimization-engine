@@ -1,4 +1,5 @@
 # **Inventory Intelligence**
+
 ## **Strategic Procurement Optimization for Engineering Equipment**
 
 ## Project Overview
@@ -36,5 +37,6 @@ I engineered a three-phase analytical pipeline to automate the Local and Import 
 1. **Immediate Procurement:** Initiate L/C (Letter of Credit) applications for the 13 flagged international SKUs immediately to account for the 3-month average lead time.
 2. **Strategic Sourcing:** For "A-Class" items like UV Sterilizers, investigate local buffering or air-freight options to reduce the 82-day Japan-to-Addis delay.
 3. **Safety Stock Review:** Maintain the 95% service level for Pumps/Generators, but consider lowering the level for "C-Class" items to free up operational cash flow.
+
 
 **Developed by Aklilu Abera | Data Analyst**
