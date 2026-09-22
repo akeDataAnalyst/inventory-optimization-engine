@@ -3,7 +3,7 @@
 ## **Strategic Procurement Optimization for Engineering Equipment**
 
 ## Project Overview
-This project is an end-to-end data solution designed to modernize the Supply and Logistics operations at an engineering firm like Davis & Shirtliff. 
+This project is an end-to-end data solution designed to modernize the Supply and Logistics operations at an engineering firm. 
 It transforms raw warehouse logs into an interactive Procurement Decision Support System, focusing on managing long-lead-time international imports (Japan, Europe, Australia).
 
 ## The Problem: Import Lead-Time Risk
@@ -21,10 +21,10 @@ I engineered a three-phase analytical pipeline to automate the Local and Import 
 
 ## Key Findings & Results Based on the latest run of the intelligence engine:
 
-- **Current Health Summary:**  REORDER NOW: 13 SKUs (87% of portfolio), **HEALTHY:** 2 SKUs
+- **Current Health Summary:**  REORDER NOW: 13 SKUs (87% of portfolio), HEALTHY: 2 SKUs
 - **Critical Bottlenecks:** 100% of current reorder needs are International Imports, representing a massive coordination task for bank documentation and customs clearance.
 
-**Top Priority Items:** **Solar Pumps (Europe):** 120-day lead time; only 15 units remaining against a 195-unit ROP.**50kVA Generators (Australia):** 118-day lead time; currently at 12 units (Critical Risk).
+**Top Priority Items:** **Solar Pumps (Europe):** 120-day lead time; only 15 units remaining against a 195-unit ROP. 50kVA Generators (Australia): 118-day lead time; currently at 12 units (Critical Risk).
 
 ## Tech Stack
 
